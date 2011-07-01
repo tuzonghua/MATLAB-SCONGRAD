@@ -1,18 +1,12 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-\margl1440\margr1440\vieww9000\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+MATLAB SCONGRAD
+Michael Doo
+April 2011
 
-\f0\fs24 \cf0 MATLAB SCONGRAD\
-Michael Doo\
-April 2011\
-\
-This is a MATLAB implementation of the scaled conjugate gradient algorithm\
-by Nicolai Andrei. It was written and tested on MATLAB 2010b for OS X. \
-\
+This is a MATLAB implementation of the scaled conjugate gradient algorithm
+by Nicolai Andrei. It was written and tested on MATLAB 2010b for OS X. 
+
 INSTALLATION\
-----------------------\
-Simply place all the files in one directory and run scongrad_main.m. This \
-will test the performance of scongrad.m against MATLAB's fminunc function\
-and write the output to a text file.}
+----------------------
+Simply place all the files in one directory and run scongrad_main.m. This 
+will test the performance of scongrad.m against MATLAB's fminunc function
+and write the output to a text file.
